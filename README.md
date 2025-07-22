@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-**DocHarvester** is a Python-powered tool designed to automate and accelerate the process of finding and organizing critical project documents. It is purpose-built for engineering and environmental projects, but is flexible enough for any scenario requiring fast, reliable document retrieval across large, complex directory structures.
+**DocHarvester** is a Python-powered tool designed to automate and accelerate the process of finding and organizing critical project documents. Irs main use was for engineering and environmental projects, but is flexible enough for any scenario requiring fast, reliable document retrieval across large, complex directory structures.
 
 ### Problem to Solve
 
